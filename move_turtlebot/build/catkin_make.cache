@@ -1,0 +1,2 @@
+audio_common/audio_capture:audio_common/audio_common:audio_common/audio_common_msgs:audio_common/audio_play:audio_common/sound_play:lang_process:turtlebot3/turtlebot3:turtlebot3/turtlebot3_bringup:turtlebot3/turtlebot3_description:turtlebot3/turtlebot3_example:turtlebot3/turtlebot3_navigation:turtlebot3/turtlebot3_slam:turtlebot3/turtlebot3_teleop
+-DCATKIN_DEVEL_PREFIX=/home/dayclear94/move_turtlebot/devel -DCMAKE_INSTALL_PREFIX=/home/dayclear94/move_turtlebot/install -G Unix Makefiles

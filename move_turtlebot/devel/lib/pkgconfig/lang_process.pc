@@ -1,0 +1,8 @@
+prefix=/home/dayclear94/move_turtlebot/devel
+
+Name: lang_process
+Description: Description of lang_process
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

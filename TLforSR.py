@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import os
 
-
+dddd
 class BasicBlock(nn.Module):
     # initailize layers
     def __init__(self,in_channel,channel_1,):
